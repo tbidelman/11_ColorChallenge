@@ -1,0 +1,53 @@
+/*
+	CSS Color Challenge!
+
+*/
+
+* {	
+	box-sizing: border-box;
+	font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+	font-size: 18px;
+	
+}
+
+html, body {
+	background-color: #E2E2E2;
+	color: #292A2C;
+	width: 100%;
+	height:100%;
+	margin: 0;
+	padding: 0;
+}
+
+#wrap {
+	background-image: url("../mondrian.jpg");
+	background-size: 600px 600px;
+	height: 100%;
+	background-repeat: no-repeat;
+	position: relative;
+}
+
+div #block-1 {
+	position: absolute;
+	background-color: white;
+	width: 11%;
+	height: 25%;
+}
+
+div #block-2 {
+	position: absolute;
+	background-color: white;
+	width: 11%;
+	height: 27%;
+
+}
+
+div #block-3 {
+	position: absolute;
+	top: 0%;
+	right: 0%;
+	background-color: red;
+
+}
+
+

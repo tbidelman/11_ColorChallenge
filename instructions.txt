@@ -1,0 +1,26 @@
+CSS Color Challenge!
+
+
+Your task is to create your own (simplified) 
+version of a Piet Mondrian painting 
+(for example, http://uploads7.wikiart.org/images/
+piet-mondrian/composition-with-red-blue-and-yellow-1930.jpg).
+
+
+1. Once you've found the image you'd like to "recreate"
+using HTML/CSS, place that image into the background of
+the inside wrap div so that you can use it as a reference
+
+2. Use at least the seven colored <div>s from the template 
+to create something Mondrian-esque.  Think about how you’ll 
+need to size and position them. If your reference image will
+require more than seven divs, feel free to add divs to
+your HTML
+
+3. Use a mixture of RGB, HEX and HSL to specify your colors 
+- which is the easiest to use?
+
+4. Create one or two more <div>s in color-challenge.html, 
+make them transparent and place them on top of your 
+current <div>s. Try to make them visually fit in to the 
+original Mondrian painting.  
